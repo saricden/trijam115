@@ -1,0 +1,68 @@
+{ "frames": {
+   "0": {
+    "frame": { "x": 0, "y": 0, "w": 85, "h": 93 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 85, "h": 93 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "1": {
+    "frame": { "x": 85, "y": 0, "w": 89, "h": 95 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 1, "w": 89, "h": 95 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "2": {
+    "frame": { "x": 174, "y": 0, "w": 80, "h": 92 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 2, "w": 80, "h": 92 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "3": {
+    "frame": { "x": 254, "y": 0, "w": 89, "h": 95 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 1, "w": 89, "h": 95 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "4": {
+    "frame": { "x": 343, "y": 0, "w": 85, "h": 96 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 0, "w": 85, "h": 96 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "5": {
+    "frame": { "x": 428, "y": 0, "w": 87, "h": 92 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 2, "w": 87, "h": 92 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25",
+  "image": "monster-head.png",
+  "format": "RGBA8888",
+  "size": { "w": 515, "h": 96 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "monster-bite", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "monster-spew", "from": 4, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
